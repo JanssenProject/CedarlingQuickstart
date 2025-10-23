@@ -6,9 +6,9 @@
             "description": "",
             "policies": {
                 "76acfe86fb09731682f92c4fbf7d2e066813ce639404": {
-                    "description": "allow_supreme_ruler",
+                    "description": "allow_teacher",
                     "creation_date": "2025-06-04T14:41:49.809437",
-                    "policy_content": "QGlkKCJhbGxvd19zdXByZW1lX3J1bGVyIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiVGVhY2hlciIsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
+                    "policy_content": "QGlkKCJhbGxvd190ZWFjaGVyIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiVGVhY2hlciIsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {
