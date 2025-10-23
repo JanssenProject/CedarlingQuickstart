@@ -9,6 +9,11 @@
                     "description": "allow_teacher",
                     "creation_date": "2025-06-04T14:41:49.809437",
                     "policy_content": "QGlkKCJhbGxvd190ZWFjaGVyIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiVGVhY2hlciIsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
+                },
+                "a6f9c66ddcadeeec9e0f65420c89715b00a835ffdaec": {
+                    "description": "allow_student_read",
+                    "creation_date": "2025-10-23T02:34:43.316922",
+                    "policy_content": "QGlkKCJhbGxvd19zdHVkZW50X3JlYWQiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiU3R1ZGVudCIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJSZWFkIl0sCiAgcmVzb3VyY2UKKTs="
                 }
             },
             "trusted_issuers": {
