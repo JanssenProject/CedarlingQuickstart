@@ -1,6 +1,6 @@
 @id("allow_supreme_ruler")
 permit(
-  principal in Jans::Role::"SupremeRuler",
+  principal in Jans::Role::"Teacher",
   action,
   resource
 );
