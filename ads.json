@@ -1,1 +1,18 @@
-{}
+{
+    "Demo Example": {
+        "projectName": "Demo Example",
+        "description": "Demo examples",
+        "type": "community",
+        "author": "JanssenProject",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/JanssenProject/CedarlingQuickstart",
+        "githubUri": "https://github.com/JanssenProject/CedarlingQuickstart",
+        "license": "Apache 2",
+        "lastUpdated": "1785494521355",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
